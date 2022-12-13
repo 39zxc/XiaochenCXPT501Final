@@ -1,0 +1,2 @@
+There are all figures of Xiaochen Zhang CXPT501_FinalProject. They are the visuslization of data and statistical analysis results. 
+Figure1 shows the TG level of diabetic patients with liver steatosis and non-diabetic patients with liver steatosis. P-value is 0.003980261395862443. In all patients with liver steatosis diagnosed by liver biopsies, there is statistically significant difference between plasma triglycerides level of diabetic patients and that of non-diabetic patients and TG level of non-diabetic patients is less than that of diabetic patients. 
